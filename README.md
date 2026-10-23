@@ -6,7 +6,7 @@ Qonzer Game Server Hosting - Promo Code
 
 Looking for reliable game server hosting with low latency, powerful hardware, and professional support? **Qonzer Hosting** delivers premium hosting solutions for gamers, content creators, Minecraft networks, and growing communities worldwide.
 
-## Use Discount Code (MrGamerTee) For 10% OFF
+## Use Discount Code (MrGamerTee) For 15% OFF
 
 # Why Choose Qonzer Hosting?
 
@@ -111,8 +111,8 @@ Qonzer Hosting supports a wide variety of popular multiplayer games.
 ## VPS & Dedicated Servers
 Qonzer VPS and Dedicated Servers are powered by the latest AMD Ryzen™ 9 7950X and Ryzen™ 9 9950X processors, delivering exceptional performance, low latency, and outstanding reliability.
 
-# 10% Discount Code
-Use my promo code **MrGamerTee** For 10% Discount on any game server.
+# 15% Discount Code
+Use my promo code **MrGamerTee** For 15% Discount on any game server.
 ### Visit [Qonzer.com](https://qonzer.gamertee.net) Today!
 
 ![Qonzer](https://github.com/MrGamerTee/Qonzer/blob/main/Qonzer.com.png?raw=true)
